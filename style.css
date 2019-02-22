@@ -1,0 +1,89 @@
+body{
+	background-color: #ffcdd2;
+}
+.general{
+  width:30%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  box-shadow: 1px 9px 20px 4px rgba(227, 188, 188, 0.5);
+
+}
+#container{
+	background-color: white;	
+	top: 50%;
+	margin-top: 4%;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	
+	}
+#bottom{
+   background-color: #ffcdd2;
+   border-color: white;
+   border-width: medium;
+   border-bottom-left-radius: 3px;
+   border-bottom-right-radius: 3px; 
+  }
+img {
+  border-radius: 8px;
+  width: 98.8px;
+  height: 100.8px;
+  padding-top: 10px;
+}
+.buttons{
+  width: 200px;
+  height: 55px;
+  border: none;
+  background-color: #040d5a;
+  font-family: Lato;
+  font-size: 15px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 0.3px;
+  color: #fdee6a;
+}
+#ohno{
+  text-align: center;
+  font-family: HelveticaNeue;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #030d5a;
+}
+#usure{
+  text-align: center;
+  font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #030d5a;
+}
+#Still-not-convinced {
+  text-align: center;
+  width: 400px;
+  height: 20px;
+  font-family: HelveticaNeue;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #030d5a;
+}
